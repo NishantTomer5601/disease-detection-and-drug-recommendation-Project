@@ -2,29 +2,34 @@
 
 Prerequisites
 
-Install XAMPP web server.
+  1)Install XAMPP web server.
 
-Any Editor (Preferably VS Code or Sublime Text).
+  2)Any Editor (Preferably VS Code or Sublime Text).
 
-Any web browser with latest version.
+  3)Any web browser with latest version.
 
-Install Python.
+  4)Install Python.
 
-Install Anaconda.
+  5)Install Anaconda.
 
 Languages and Technologies used:
 
-HTML5/CSS3
+  1)HTML5/CSS3
 
-JavaScript
+  2)JavaScript
 
-Bootstrap
-XAMPP
-Python, Django
-MySQL
+  3)Bootstrap
+  
+  4)XAMPP
+  
+  5)Python, Django
+  
+  6)MySQL
+  
+  
 Steps to run the project in your machine
 
-Download and install XAMPP in your machine.
+Download and install XAMPP in your machine. 
 Download and install VS code in your machine.
 Download and install Python in your machine.
 Download and install Anaconda in your machine.
