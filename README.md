@@ -3,14 +3,21 @@
 Prerequisites
 
 Install XAMPP web server.
+
 Any Editor (Preferably VS Code or Sublime Text).
+
 Any web browser with latest version.
+
 Install Python.
+
 Install Anaconda.
-Languages and Technologies used
+
+Languages and Technologies used:
 
 HTML5/CSS3
+
 JavaScript
+
 Bootstrap
 XAMPP
 Python, Django
